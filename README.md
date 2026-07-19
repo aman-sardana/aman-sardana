@@ -63,14 +63,6 @@ I'm a **Data Science sophomore at the University of San Francisco** with a 3.91 
 
 ---
 
-## GitHub stats
-
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aman-sardana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-sardana&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## Outside the terminal
 
 Before I was analyzing datasets, I was racing on inline skates. I competed nationally and placed **3rd at the TriYAS Abu Dhabi 10K marathon (u17)**. Speed skating and data science have more in common than you'd think: both punish sloppiness, reward consistency, and occasionally make you fall on your face in public.
