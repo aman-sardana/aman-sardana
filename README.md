@@ -56,10 +56,21 @@ I'm a **Data Science sophomore at the University of San Francisco** with a 3.91 
 |---|---|---|
 | SF Crime Trend Analysis | SQL, Python, Folium | Analyzed 500K+ police records across 5 years, built interactive heatmaps, found 20.6% crime drop from 2024 to 2025 |
 | Health Disparities Analysis | SQL | Joined 7 tables across 800K+ dispatch records to assess healthcare access in SF |
-| DataFest 2026 - Best Insight Award | Python, K-Means | Found resource allocation patterns in a 7.6M row healthcare dataset in 48 hours |
 | Kepler Exoplanet Classifier | Python, scikit-learn | Random Forest classifier with 97.9% test accuracy on NASA KOI data |
 | Titanic Survival Analysis | SQL | Explored survival factors including class, fare, age, family size, and passenger title |
 | Student Social Media Addiction EDA | SQL | Identified patterns between usage, sleep, mental health, and academic performance across 705 students |
+
+---
+
+## Achievements & highlights
+
+🏆 **Best Insight Award** - DataFest 2026 (48-hour data science hackathon, 7.6M+ row dataset)
+
+🎓 **Outstanding First Year Data Science Award** - University of San Francisco, 2026
+
+📜 **Dean's Honor Roll** - University of San Francisco
+
+⛸️ **3rd Place (u17)** - TriYAS Abu Dhabi 10K Inline Speed Skating Marathon
 
 ---
 
