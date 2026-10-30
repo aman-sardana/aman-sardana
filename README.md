@@ -8,7 +8,7 @@ I'm a Data Science student at the University of San Francisco with a 3.91 GPA. I
 
 **College earnings.** I'm predicting institutional earnings from U.S. Department of Education College Scorecard data. Across 1,627 institutions with complete data, linear regression and random forest models reach R² of 0.641 and 0.619, compared with 0.115 from admission rate alone. Pell Grant share and Asian enrollment share together carry about 63% of the predictive power. A professor is reviewing the paper with me before I try to publish it.
 
-**Basketball analytics.** At USF I've worked with 15+ seasons of NCAA player data (about 30K records) on player evaluation, projection models and a custom metric I call virtual win share.
+**Basketball analytics.** At USF I've worked with 15+ seasons of NCAA player data (about 30K records) on player evaluation, projection models and a custom metric made by a professor called virtual win share.
 
 ## Projects
 
