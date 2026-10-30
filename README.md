@@ -1,88 +1,32 @@
-# Hi, I'm Aman Sardana 👋
+# Hi, I'm Aman
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&width=500&lines=Data+Science+Student+%40+USF;SQL+%7C+Python+%7C+Always+Curious;NCAA+Basketball+Analytics+Researcher;Speed+Skater+turned+Data+Nerd+%F0%9F%9B%BC)](https://git.io/typing-svg)
+asardana2@dons.usfca.edu
 
----
+I'm a Data Science student at the University of San Francisco with a 3.91 GPA. I like finding out what public data says about San Francisco, college outcomes and basketball, mostly using SQL and Python.
 
-```
-  · · · · · ·   · · · ·       · · · ·   · · · · · ·
-· ·   · ·  · · · · · ·   · · · ·   · · · · ·   · · ·
+## Research
 
-          ___                                ___
-         |   |                              |   |
-         | | |                              | | |
-         | | |                              | | |
-        /| | |\                            /| | |\
-       / | | | \                          / | | | \
-      /  | | |  \                        /  | | |  \
-     /   | | |   \                      /   | | |   \
-    /    | | |    \        ______      /    | | |    \
-   /     | | |     \    __/      \__  /     | | |     \
-  /      | | |      \__/            \/      | | |      \
-─────────|_|_|──────────────────────────────|_|_|─────────
-        ~~~~~~                              ~~~~~~
-      ~   ~   ~   ~                      ~   ~   ~   ~
-```
+**College earnings.** I'm predicting institutional earnings from U.S. Department of Education College Scorecard data. Across 1,627 institutions with complete data, linear regression and random forest models reach R² of 0.641 and 0.619, compared with 0.115 from admission rate alone. Pell Grant share and Asian enrollment share together carry about 63% of the predictive power. A professor is reviewing the paper with me before I try to publish it.
 
----
+**Basketball analytics.** At USF I've worked with 15+ seasons of NCAA player data (about 30K records) on player evaluation, projection models and a custom metric I call virtual win share.
 
-I'm a **Data Science sophomore at the University of San Francisco** with a 3.91 GPA and a habit of asking "but what does the data actually say?" When I'm not building SQL pipelines or debugging matplotlib charts, I'm probably thinking about basketball statistics or lacing up my inline skates.
+## Projects
 
----
+- [sf-ems-health-disparities](https://github.com/aman-sardana/sf-ems-health-disparities): Does zip code shape emergency care in San Francisco? 800K+ EMS records joined across 7 SQL tables.
+- [sf-crime-analysis](https://github.com/aman-sardana/sf-crime-analysis): 500K+ police incident records analyzed in MySQL and Python, with interactive Folium heatmaps. Incidents fell 20.6% from 2024 to 2025.
+- [sql-social-media-eda](https://github.com/aman-sardana/sql-social-media-eda): How social media use relates to sleep, mental health and grades among 705 students.
+- [sql-titanic-survival-analysis](https://github.com/aman-sardana/sql-titanic-survival-analysis): What affected survival on the Titanic, in SQL.
 
-## What I'm working on
+## Recognition
 
-- **Research Assistant at USF** - analyzing 15+ seasons of NCAA basketball player data (~30K+ records) to evaluate player performance, build projection models, and investigate a custom metric called virtual win share (vWS)
-- **Health Disparities Analysis** - writing SQL across 7 joined tables and 800K+ emergency dispatch records to assess healthcare access across San Francisco neighborhoods
-- Always building something new for the portfolio
+Best Insight Award at DataFest 2026 (team award), Outstanding First Year Data Science Award, Dean's Honor Roll, and the Dons and Global Scholarships.
 
----
+## Beyond coursework
 
-## Tech stack
+I grade homework for a Biostatistics course at USF (about 45 students) and sit on the executive board of the USF Data Science Association. I also compete in inline speed skating and placed 3rd in the under-17 group at the TriYAS 10K in Abu Dhabi.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+## Tools
 
----
+Python (Pandas, NumPy, scikit-learn, Matplotlib, Folium), SQL (MySQL), Git and GitHub Actions, Java.
 
-## Selected projects
-
-| Project | Tools | Highlight |
-|---|---|---|
-| SF Crime Trend Analysis | SQL, Python, Folium | Analyzed 500K+ police records across 5 years, built interactive heatmaps, found 20.6% crime drop from 2024 to 2025 |
-| Health Disparities Analysis | SQL | Joined 7 tables across 800K+ dispatch records to assess healthcare access in SF |
-| Kepler Exoplanet Classifier | Python, scikit-learn | Random Forest classifier with 97.9% test accuracy on NASA KOI data |
-| Titanic Survival Analysis | SQL | Explored survival factors including class, fare, age, family size, and passenger title |
-| Student Social Media Addiction EDA | SQL | Identified patterns between usage, sleep, mental health, and academic performance across 705 students |
-
----
-
-## Achievements & highlights
-
-🏆 **Best Insight Award** - DataFest 2026 (48-hour data science hackathon, 7.6M+ row dataset)
-
-🎓 **Outstanding First Year Data Science Award** - University of San Francisco, 2026
-
-📜 **Dean's Honor Roll** - University of San Francisco
-
-⛸️ **3rd Place (u17)** - TriYAS Abu Dhabi 10K Inline Speed Skating Marathon
-
----
-
-## Outside the terminal
-
-Before I was analyzing datasets, I was racing on inline skates. I competed nationally and placed **3rd at the TriYAS Abu Dhabi 10K marathon (u17)**. Speed skating and data science have more in common than you'd think: both punish sloppiness, reward consistency, and occasionally make you fall on your face in public.
-
-I'm also part of the **Data Science Association at USF** handling External Relations and Marketing, and I'm on the Dean's Honor Roll.
-
----
-
-## Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amansardanaa)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asardana2@dons.usfca.edu)
+[LinkedIn](https://www.linkedin.com/in/amansardanaa)
